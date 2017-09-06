@@ -1,2 +1,2 @@
-# [ERROR Sample Repo] PR Practice 
+# [ERROR Repo] PR Practice 
 A sample repo for practicing how to create Pull Requests
